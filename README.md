@@ -1,18 +1,30 @@
 # Team Xobots
 
-## Practices
+## Latest Information
 
-Practices will be Thursday from 4:00-5:30 and Saturday from x:00-y:30 at Go Like the Wind.
+### Status
 
-## Getting Started
+#### Next Meeting: Thursday, September 19th at 4:00
 
-I strongly encourage everybody to play the game "Light Bot".  It is a great starting point for
-programming the Mindstorm robot.  You can play for free on the following web site:
+### Updates
 
-http://www.kongregate.com/games/coolio_niato/light-bot
+    * [Agenda for next meeting](https://github.com/xogeny/xobots/wiki/Meeting:-September-19th,-2013)
 
-There is also a version of Light Bot for iOS and Android:
-  * [Light-Bot for iOS](https://itunes.apple.com/us/app/light-bot/id657638474?mt=8)
-  * [Light-Bot Lite for iOS](https://itunes.apple.com/us/app/light-bot-lite/id659285751?mt=8)
-  * [Light-Bot for Android](https://play.google.com/store/apps/details?id=com.lightbot.lightbot)
-  * [Light-Bot Lite for Android](https://play.google.com/store/apps/details?id=com.lightbot.lightbotlite&hl=en)
+## Background Information
+
+### Challenge
+
+The official [Nature's Fury Challenge](http://www.firstlegoleague.org/sites/default/files/Challenge/NaturesFury/NATURE%27S%20FURY%20Challenge.pdf)
+can now be downloaded.  We have the 
+
+### Practices (at GLTW)
+
+#### Thursdays from 4:00-5:30
+
+#### Saturday from 2:00-4:30
+
+
+
+
+
+
