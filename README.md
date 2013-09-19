@@ -4,11 +4,11 @@
 
 ### Status
 
-#### Next Meeting: Thursday, September 19th at 4:00
+#### [Next Meeting: Thursday, September 19th at 4:00](https://github.com/xogeny/xobots/wiki/Meeting:-September-19th,-2013)
 
 ### Updates
 
-    * [Agenda for next meeting](https://github.com/xogeny/xobots/wiki/Meeting:-September-19th,-2013)
+   * [Agenda for next meeting](https://github.com/xogeny/xobots/wiki/Meeting:-September-19th,-2013)
 
 ## Background Information
 
