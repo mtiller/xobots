@@ -4,7 +4,7 @@
 
 ### Status
 
-#### [Next Meeting: Thursday, September 19th at 4:00](https://github.com/xogeny/xobots/wiki/Meeting:-September-19th,-2013)
+   * Next Meeting: [Thursday, September 19th at 4:00](https://github.com/xogeny/xobots/wiki/Meeting:-September-19th,-2013)
 
 ### Updates
 
@@ -19,9 +19,8 @@ can now be downloaded.  We have the
 
 ### Practices (at GLTW)
 
-#### Thursdays from 4:00-5:30
-
-#### Saturday from 2:00-4:30
+  * Thursdays from 4:00-5:30
+  * Saturday from 2:00-4:30
 
 
 
