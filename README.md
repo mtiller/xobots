@@ -15,7 +15,8 @@
 ### Challenge
 
 The official [Nature's Fury Challenge](http://www.firstlegoleague.org/sites/default/files/Challenge/NaturesFury/NATURE%27S%20FURY%20Challenge.pdf)
-can now be downloaded.  We have the 
+can now be downloaded.  We have the field kit (shown at first meeting), but we need to build the practice field and
+then we can review the robot missions.
 
 ### Practices (at GLTW)
 
