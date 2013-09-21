@@ -4,10 +4,11 @@
 
 ### Status
 
-   * Next Meeting: [Saturday, September 21st at 2:00](https://github.com/xogeny/xobots/wiki/Meeting:-September-21st,-2013)
+   * Next Meeting: [Thursday, September 26th 4:00](https://github.com/xogeny/xobots/wiki/Meeting:-September-26th,-2013)
 
 ### Updates
 
+   * Practice field models completed!
    * [Homework Assignment](https://github.com/xogeny/xobots/wiki/Meeting:-September-19th,-2013#homework)
 
 ## Background Information
