@@ -4,12 +4,14 @@
 
 ### Status
 
-   * Next Meeting: [Thursday, September 26th 4:00](https://github.com/xogeny/xobots/wiki/Meeting:-September-26th,-2013)
+   * Next Meeting: [Thursday, September 26th 4:00](https://github.com/xogeny/xobots/wiki/Meeting:-September-26th,-2013) (Discussion of the Project part of the challenge)
+   * Following Meeting: Saturday, September 28th 4:00 (Construction of practice table, hopefully)
 
 ### Updates
 
    * Practice field models completed!
    * [Homework Assignment](https://github.com/xogeny/xobots/wiki/Meeting:-September-19th,-2013#homework)
+   * [Interesting before and after maps](http://www.esri.com/services/disaster-response) are available for the Project portion of the challenge.
 
 ## Background Information
 
