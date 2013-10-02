@@ -8,7 +8,7 @@
    * Following Meeting: Saturday, October 5th 2:00 (Painting practice table, Project brainstorming)
 
 ### Updates
-
+   * Xobots are registered for the [DownRiver Robot Rescue](http://www.firstinmichigan.org/fll/FLL_2013/downriver_robot_rescue.html) qualifying tournament (November 23rd)!
    * Review the [Robot Game updates](http://www.firstlegoleague.org/challenge/robotgameupdates) prior to each team meeting
    * Practice table completed!
    * Practice field models completed!
